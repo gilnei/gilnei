@@ -1,33 +1,15 @@
-Hello! I'm Gilnei, a dedicated technology leader passionate about developing innovative solutions and creating high-performing teams. Over my diverse career, I've worn many hats - from being a PHP Developer, Scrum Master, and Product Owner to a successful Entrepreneur. 
+### Hi there 👋, Gilnei Longo
+#### Agile Manager, CSPO, CSM, CSD
+![Agile Manager, CSPO, CSM, CSD](https://www.gilneilongo.com/assets/images/1740x.jpg)
 
-This cross-functional experience uniquely positioned me to understand and navigate the many layers of successful project execution and business management. As a founder of an outsourcing company, I take pride in building a work culture that emphasizes ethical behavior, continual learning, assertive communication, and quality team development. My commitment to these values has fostered a work environment with low turnover rates and highly engaged, responsible teams. 
+ I'm Gilnei, a dedicated technology leader with a passion for developing innovative solutions and creating high-performing teams. Over my diverse career, I've worn many hats - from being a PHP Developer, Scrum Master, Product Owner to a successful Entrepreneur. I believe this cross-functional experience has uniquely positioned me to understand and navigate the many layers of successful project execution and business management. As a founder of an outsourcing company, I take pride in building a work culture that emphasizes ethical behavior, continual learning, assertive communication, and quality team development. My commitment to these values has fostered a work environment marked by low turnover rates and highly engaged, responsible teams. In addition to running my own company, I continue to serve as a Product Owner for a long-standing client, where I apply my skills in problem-solving and product management to drive business solutions, maintaining alignment across teams through consistent feedback and daily check-in meetings.
 
-In addition to running my own company, I continue to serve as a Product Owner for a long-standing client. I apply my problem-solving and product management skills to drive business solutions, maintaining alignment across teams through consistent feedback and daily check-in meetings.
+Skills: Agile Product / Project Management, PHP Developer
 
-I'm a strong advocate for remote work, having managed global teams across different time zones and experienced that for 10+ years!
-
-I see myself as a bridge between technology and business, always striving to bring out the best in both to deliver successful outcomes. Whether crafting the perfect solution or building a world-class team, I am committed to driving growth and excellence.
-
-[![Gilnei's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilnei&show_icons=true&theme=dark)](https://github.com/gilnei/github-readme-stats)
-
-Gilnei Longo
-Agile Manager
-CSPO, CSM, CSD
+- 🔭 I’m currently working on TravelpassGroup.com and UpOutsourcing.com 
+- 📫 How to reach me: contact@gilneilongo.com 
+- ⚡ Fun fact: EDM student 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/gilnei/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gilneilongo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.gilneilongo.com)  
 
-
-<!--
-**gilnei/gilnei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
