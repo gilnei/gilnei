@@ -8,7 +8,7 @@ I'm a strong advocate for remote work, having managed global teams across differ
 
 I see myself as a bridge between technology and business, always striving to bring out the best in both to deliver successful outcomes. Whether crafting the perfect solution or building a world-class team, I am committed to driving growth and excellence.
 
-[![Gilnei's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilnei)](https://github.com/gilnei/github-readme-stats)
+[![Gilnei's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilnei&show_icons=true&theme=dark)](https://github.com/gilnei/github-readme-stats)
 
 Gilnei Longo
 Agile Manager
